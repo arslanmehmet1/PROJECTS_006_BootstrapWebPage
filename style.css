@@ -31,3 +31,28 @@ i {
   position: relative;
   top: 4rem;
 }
+.ins {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  border: 10px solid #cccccc;
+  margin-bottom: 2rem;
+}
+.icons img {
+  width: 1.2rem;
+  color: white;
+  padding: 1rem 0;
+}
+.logos img {
+  width: 10rem;
+  padding: 0 1rem;
+}
+.cafe {
+  background-image: url(./img/map.jpeg);
+}
+.card:hover {
+  scale: 1.1;
+  box-shadow: 5px 5px 5px;
+  transition: all 1s;
+  cursor: pointer;
+}
