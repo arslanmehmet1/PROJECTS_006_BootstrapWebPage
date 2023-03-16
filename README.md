@@ -1,6 +1,7 @@
 https://arslanmehmet1.github.io/PROJECTS_006_BootstrapWebPage/
 
 # PROJECTS_006_BootstrapWebPage
+https://user-images.githubusercontent.com/108485739/225628738-674ab624-c504-4966-981f-f2f01e2eae5a.mp4
 
 BootstrapWebPage exercises
 
